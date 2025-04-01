@@ -32,7 +32,7 @@ This project aims to build a complete data analysis pipeline, from extraction to
 5. Open the `.pbix` file in Power BI to visualize the information.
 
 ## Contributions
-Submit a pull request with your contributions. For more information, refer to the [documentation](docs/index.md).
+Submit a pull request with your contributions. For more information, refer to the [documentation](docs).
 
 ## License
 This project is licensed under the MIT License.
